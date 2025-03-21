@@ -18,11 +18,11 @@ body {
 
 h2 {
     color: rgb(255, 216, 102);
-    margin-bottom: -15px; /* Diminuiu o espaço abaixo do título */
+    margin-bottom: -15px;
 }
 
 button {
-    margin: 15px 0; /* Diminuiu o espaço entre o botão e os itens */
+    margin: 15px 0;
     background-color: transparent;
     color: #888;
     border: none;
@@ -58,7 +58,6 @@ li {
 
 li:hover {
     background-color: #444;
-    /* color: rgb(255, 216, 102); */
 }
 
 .copiado {
